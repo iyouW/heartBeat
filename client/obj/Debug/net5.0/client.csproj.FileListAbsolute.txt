@@ -1,0 +1,16 @@
+c:\Users\HP\Desktop\heartbeat\client\bin\Debug\net5.0\client.exe
+c:\Users\HP\Desktop\heartbeat\client\bin\Debug\net5.0\client.deps.json
+c:\Users\HP\Desktop\heartbeat\client\bin\Debug\net5.0\client.runtimeconfig.json
+c:\Users\HP\Desktop\heartbeat\client\bin\Debug\net5.0\client.runtimeconfig.dev.json
+c:\Users\HP\Desktop\heartbeat\client\bin\Debug\net5.0\client.dll
+c:\Users\HP\Desktop\heartbeat\client\bin\Debug\net5.0\ref\client.dll
+c:\Users\HP\Desktop\heartbeat\client\bin\Debug\net5.0\client.pdb
+c:\Users\HP\Desktop\heartbeat\client\obj\Debug\net5.0\client.csprojAssemblyReference.cache
+c:\Users\HP\Desktop\heartbeat\client\obj\Debug\net5.0\client.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\HP\Desktop\heartbeat\client\obj\Debug\net5.0\client.AssemblyInfoInputs.cache
+c:\Users\HP\Desktop\heartbeat\client\obj\Debug\net5.0\client.AssemblyInfo.cs
+c:\Users\HP\Desktop\heartbeat\client\obj\Debug\net5.0\client.csproj.CoreCompileInputs.cache
+c:\Users\HP\Desktop\heartbeat\client\obj\Debug\net5.0\client.dll
+c:\Users\HP\Desktop\heartbeat\client\obj\Debug\net5.0\ref\client.dll
+c:\Users\HP\Desktop\heartbeat\client\obj\Debug\net5.0\client.pdb
+c:\Users\HP\Desktop\heartbeat\client\obj\Debug\net5.0\client.genruntimeconfig.cache
